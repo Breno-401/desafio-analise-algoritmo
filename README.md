@@ -38,7 +38,6 @@ As comparacoes entre algoritmos de ordenacao usam copias iguais dos vetores. Par
 - `Main.java`: implementacao e execucao dos testes.
 - `resultados/dados_brutos.csv`: medidas de cada execucao, inclusive o warm-up.
 - `resultados/medias.csv`: media das tres execucoes validas de cada caso.
-- `resultados/dados_brutos.xlsx`: planilha com todos os dados e as medias.
-- `relatorio.pdf`: explicacao, resultados, graficos e conclusao.
+O relatorio em PDF (4 paginas) e a planilha Excel (.xlsx) sao entregues separadamente, conforme o enunciado da atividade. Os arquivos CSV com os dados completos estao disponiveis aqui no repositorio.
 
 **Observacao:** tempos podem mudar conforme computador, sistema e programas abertos.
